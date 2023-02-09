@@ -1,3 +1,21 @@
+#Weather-react
+
+This application you can check the weather
+
+Application created using:
+- Getting data from the server
+- Server data Processing
+- Rendering data from the server
+- React Router
+- CSS Modules
+
+![Weather](https://user-images.githubusercontent.com/81286016/217929565-c0296a8c-090f-4bc3-9da6-eaca03286cee.jpg)
+
+### In this app you can:
+
+- Add city
+- View city weather in detail
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
